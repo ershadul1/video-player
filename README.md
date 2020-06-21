@@ -1,6 +1,6 @@
 # video-player
 
-> Embedding Images and Video
+> This is a clone of youtube player page. We learned about Embedding Images and Videos by doing this project.
 
 ![screenshot](./assets/images/website.png)
 
