@@ -4,12 +4,13 @@
 
 ![screenshot](./assets/images/website.png)
 
-- Live demo [@video-player](https://raw.githack.com/Amita-Roy/video-player/player-page/index.html)
+# Live demo
+
+[@video-player](https://raw.githack.com/Amita-Roy/video-player/player-page/index.html)
 
 ## Built With
 
 ​
-
 - HTML
 - CSS
   ​
@@ -17,14 +18,14 @@
 ## Getting Started
 
 ​
-**To get a local copy up and running follow these simple example steps.**
+**Visit the live demo**
 ​
 ​
 
 ### Prerequisites
 
-A computer.
-A browser of preference.
+- A computer.
+- A browser of preference.
 ​
 
 ## Authors
@@ -34,12 +35,16 @@ A browser of preference.
 ​
 
 - Github: [@githubhandle](https://github.com/Amita-Roy)
+- Linkedin: [Amita Roy](https://www.linkedin.com/in/amita-roy-3b823b68/)
+- Email: sardana.amita2@gmail.com
 
 👤 **Ershadul Hakim Rayhan**
 ​
 
 - Github: [@githubhandle](https://github.com/ershadul1)
-  ​
+- Twitter: [@ErshadulRayhan](https://twitter.com/ErshadulRayhan)
+- Linkedin: [ErshadulRayhan](https://www.linkedin.com/in/ershadul-hakim-rayhan-a5a17649/)
+- Email: ershadul.rayhan@gmail.com
 
 ## �� Contributing
 
